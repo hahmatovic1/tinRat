@@ -104,3 +104,15 @@ h1, h2, h3, h4, h5, h6 {
   border-radius: 100%;
   margin: 20px 20px 50px;
 }
+
+
+/* press */
+#press {
+  background-color: #4c956c;
+  padding-bottom: 3%;
+}
+
+.press-logo {
+  width: 15%;
+  margin: 20px;
+}
