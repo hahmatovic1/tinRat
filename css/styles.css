@@ -7,3 +7,30 @@ h1, h2, h3, h4, h5, h6 {
   font-family: "Montserrat-Bold";
   font-weight: bold;
 }
+
+/* nav bar; */
+.navbar {
+  padding: 0 0 4.5rem;
+}
+.nav-link {
+  font-size: 1.2rem;
+  font-family: "Montserrat-Light";
+}
+.nav-item {
+  padding: 0 18px;
+}
+
+.navbar-brand {
+  font-family: "Ubuntu";
+  font-size: 2.5rem;
+  font-weight: bold;
+}
+
+
+.colored-section {
+  background-color: #4c956c;
+  color: #fff;
+}
+.white-section {
+  background-color: #fff;
+}
