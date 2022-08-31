@@ -73,3 +73,12 @@ h1, h2, h3, h4, h5, h6 {
   background-color: #fff;
   position: relative;
 }
+
+.icon {
+  color: #4c956c;
+  margin-bottom: 1rem;
+}
+
+.icon:hover {
+  color: #346549;
+}
