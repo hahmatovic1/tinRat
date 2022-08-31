@@ -68,3 +68,8 @@ h1, h2, h3, h4, h5, h6 {
 .iphone-rat-image {
   position: relative;
 }
+
+#features {
+  background-color: #fff;
+  position: relative;
+}
