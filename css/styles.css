@@ -133,3 +133,14 @@ h1, h2, h3, h4, h5, h6 {
 .card-header{
   padding-top: 3%;
 }
+
+@media (max-width: 1028px) {
+  #title {
+    text-align: center;
+  }
+
+  .title-image {
+    position: static;
+    transform: rotate(0);
+  }
+}
