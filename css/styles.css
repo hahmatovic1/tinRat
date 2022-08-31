@@ -34,3 +34,31 @@ h1, h2, h3, h4, h5, h6 {
 .white-section {
   background-color: #fff;
 }
+
+.big-heading {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 900;
+  font-size: 3.5rem;
+  line-height: 1.5;
+}
+#title .container-fluid {
+  text-align: left;
+  padding: 3% 15% 7%;
+}
+
+.container-fluid {
+  padding: 7% 15% 7%;
+}
+
+/* Download buttons */
+.download-button {
+  margin: 5% 3% 5% 0;
+}
+
+/* Title image */
+.title-image {
+  width: 60%;
+  transform: rotate(25deg);
+  position: absolute;
+  right: 30%;
+}
