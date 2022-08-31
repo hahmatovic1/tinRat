@@ -88,3 +88,19 @@ h1, h2, h3, h4, h5, h6 {
 .icon:hover {
   color: #346549;
 }
+
+/* testimonials */
+#testimonials {
+  background-color: #4c956c;
+}
+
+.testimonial-text {
+  font-size: 3rem;
+  line-height: 1.5;
+}
+
+.testimonial-image {
+  width: 10%;
+  border-radius: 100%;
+  margin: 20px 20px 50px;
+}
