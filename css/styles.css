@@ -116,3 +116,20 @@ h1, h2, h3, h4, h5, h6 {
   width: 15%;
   margin: 20px;
 }
+
+/* pricing */
+#pricing {
+  padding: 100px;
+}
+
+.price-text{
+  font-size: 3rem;
+  line-height: 1.5;
+}
+
+.pricing-column {
+  padding: 3% 2%;
+}
+.card-header{
+  padding-top: 3%;
+}
