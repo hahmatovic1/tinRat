@@ -73,6 +73,9 @@ h1, h2, h3, h4, h5, h6 {
   background-color: #fff;
   position: relative;
 }
+.feature-title{
+  font-size: 1.5rem;
+}
 
 .icon {
   color: #4c956c;
