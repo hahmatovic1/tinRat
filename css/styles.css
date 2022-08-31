@@ -76,6 +76,9 @@ h1, h2, h3, h4, h5, h6 {
 .feature-title{
   font-size: 1.5rem;
 }
+.feature-box {
+  padding: 5%;
+}
 
 .icon {
   color: #4c956c;
